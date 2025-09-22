@@ -12,9 +12,9 @@ toc: true
 ## Publications ouvertes = publications plus citées
 
 
-Une [étude](https://royalsocietypublishing.org/doi/10.1098/rsos.241248) publiée dans *Royal Society Open Science* par une équipe de chercheurs européens vient pour la première fois confirmer, à partir d'un corpus important (500 000 articles), ce que des travaux à échelle plus réduite avaient laissé penser : la corrélation entre pratiques de publications en science ouverte et taux de citation de ces publications. 
+Une [étude](https://royalsocietypublishing.org/doi/10.1098/rsos.241248) publiée dans *Royal Society Open Science* par une équipe de chercheurs européens vient pour la première fois confirmer, à partir d'un corpus important (500 000 articles), ce que des travaux à échelle plus réduite avaient laissé entendre : la corrélation entre pratiques de publications en science ouverte et taux de citation de ces publications. 
 
-Une synthèse des résultats est disponible sur [Ouvrir la science](https://www.ouvrirlascience.fr/pour-la-premiere-fois-a-lechelle-dun-pays-entier-la-france-une-etude-montre-que-les-pratiques-de-science-ouverte-sont-associees-a-une-augmentation-des-citations/) 
+Une synthèse des résultats est disponible sur le site [Ouvrir la science](https://www.ouvrirlascience.fr/pour-la-premiere-fois-a-lechelle-dun-pays-entier-la-france-une-etude-montre-que-les-pratiques-de-science-ouverte-sont-associees-a-une-augmentation-des-citations/) 
 
 > - Un article publié en accès ouvert est associé à 8,6% de citations supplémentaires par rapport à un article qui n’est pas en accès ouvert.
 > - Un article partageant du code source est associé à 13,5% de citations supplémentaires.
@@ -29,15 +29,15 @@ Une synthèse des résultats est disponible sur [Ouvrir la science](https://www.
 
 ![](centaur.jpg)
 
-Après l'["enshittification"](https://fr.wikipedia.org/wiki/Merdification) --- soit la dégradation volontaire de la qualité des services fournis par les géants du numérique (GAFAM, Adobe, Spotify...) en position de quasi-monopole --- l'écrivain et journaliste canadien [Cory Doctorow](https://pluralistic.net/) réactualise ces derniers mois une ancienne métaphore pour décrire ce que l'intelligence
-artificielle générative fait à l'organisation du travail. Face aux effets potentiellement aliénants de ce "taylorisme du XXIe siècle" redistribuant les rôles entre humains et machines, la distinction entre "centaure" et "anticentaure" (*reverse centaur*) permet d'y voir plus clair en différenciant les usages  :
+Après l'["enshittification"](https://fr.wikipedia.org/wiki/Merdification) --- soit la dégradation volontaire de la qualité des services fournis par les géants du numérique (GAFAM, Adobe, Spotify...) en position de quasi-monopole --- l'écrivain et journaliste canadien [Cory Doctorow](https://pluralistic.net/) réactualise dans ses posts de ces derniers mois une ancienne métaphore pour décrire ce que l'intelligence
+artificielle générative fait à l'organisation du travail. Face aux effets potentiellement aliénants de ce "taylorisme du XXIe siècle" redistribuant les rôles entre humains et machines, la distinction entre "centaure" et "anticentaure" (*reverse centaur*) apporte une clarification en différenciant les usages  :
 
 > Un "centaure" est un humain assisté par une machine : une tête humaine greffée sur un corps puissant qui ne connaît pas la fatigue. Un "anticentaure" est une machine à qui l'humain sert d'assistant, réduit au rôle
 d'une marionnette au service d'une machine implacable et insensible. 
 
-Faire travailler un grand modèle de langage à la transcription automatique de plusieurs centaines de podcasts ? C'est mettre *volontairement* à son service toutes les possibilités de la machine, être à la tête du centaure.
+Faire travailler un grand modèle de langage à la transcription automatique de plusieurs centaines de podcasts ? C'est mettre *volontairement* à son service toutes les possibilités de la machine, se situer par conséquent à la tête du centaure.
 
-Passer l'essentiel de son temps à traquer et corriger erreurs, biais et hallucinations dans des textes, images ou codes produits par des IAG sous prétexte de productivité ? C'est, comme l'anticentaure, être à la traîne de la machine, condamné à courir derrière une tête autonome.
+Passer l'essentiel de son temps à traquer et corriger erreurs, biais et hallucinations dans des textes, images ou codes tous produits par des IAG sous prétexte de productivité ? C'est, comme l'anticentaure, être à la traîne de la machine, condamné à courir derrière une tête autonome.
 
 Source : Cory Doctorow, "Reverse centaurs are the answer to the AI paradox", [*Pluralistic*](https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative)
 
@@ -46,14 +46,14 @@ Source : Cory Doctorow, "Reverse centaurs are the answer to the AI paradox", [*P
 ## Zotero pour Android
 
 Vous en rêviez la nuit, le rêve est désormais réalité : l'application Zotero pour Android, sortie de sa phase de développement *bêta*,
-est désormais accessible [entre autres sur Google Play](https://play.google.com/store/apps/details?id=org.zotero.android&pli=1). L'application embarque un lecteur de PDF et autorise la synchronisation avec ses bibliothèques personnelles, y compris --- pour les fanatiques de la collecte de documents --- via le protocle WebDAV.
+est désormais accessible [entre autres sur Google Play](https://play.google.com/store/apps/details?id=org.zotero.android&pli=1). L'application embarque un lecteur de PDF et autorise la synchronisation avec ses bibliothèques personnelles, y compris --- pour les fanatiques de la collecte de documents --- via le protocole WebDAV.
 
 Source : [Le blog Zotero francophone](https://zotero.hypotheses.org/5552)
 
 
 ## Licenciements à l'OCLC
 
-Organisation ["à but non lucratif"](https://projects.propublica.org/nonprofits/organizations/310734115) chargée, entre autres, de la maintenance de services comme WodldCat ou WebDewey, l'OCLC a licencié cet été 80 employés de son siège à Dublin (Ohio). Parmi les raisons avancées pour expliquer ce licenciement de 15% de la masse salariale de l'organisation, un porte-parole de l'organisation cite "des changements dans les compétences techniques attendues" et "l'influence croissante de l'intelligence artificielle".
+Organisation ["à but non lucratif"](https://projects.propublica.org/nonprofits/organizations/310734115) chargée, entre autres, de la maintenance de services comme WorldCat ou WebDewey, l'OCLC a licencié cet été 80 employés de son siège à Dublin (Ohio). Parmi les raisons avancées pour expliquer ce licenciement de 15% de la masse salariale de l'organisation, un porte-parole cite "des changements dans les compétences techniques attendues" et "l'influence croissante de l'intelligence artificielle".
 
 [Source](https://abc6onyourside.com/news/local/ohio-college-library-center-in-dublin-lays-off-about-80-employees-cites-ai-oclc-dublin-libraries-bob-murphy-employment-unemployment)
 
