@@ -6,7 +6,7 @@ execute:
 
 website:
   description: "A blog built with Quarto"
-  site-url: https://your-website-url.example.com # you must change this appropriately for RSS feeds to work properly
+  site-url: https://m-salvadori.github.io/veille-dbist/ # you must change this appropriately for RSS feeds to work properly
   title: "demo"
   navbar:
     right:
