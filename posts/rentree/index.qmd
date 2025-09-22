@@ -1,0 +1,13 @@
+---
+title: "L'été est fini"
+date: "2025-08-26"
+categories: [news, code, analysis]
+image: "sun.jpg"
+---
+
+Pour saluer la fin des vacances et le retour de l'automne, les [bibliothèques](https://www.bib.uvsq.fr/) de l'Université Versailles-Saint-Quentin lancent leur site de veille professionnelle. A bientôt pour de nouvelles aventures !
+
+Et pour commencer, une vue du Cube
+
+![](cube.jpg)
+
