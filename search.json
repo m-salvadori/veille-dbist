@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "demo",
+    "section": "",
+    "text": "Les actus du mois de septembre\n\n\n\nveille\n\nia\n\nscience ouverte\n\n\n\n\n\n\n\n\n\nSep 1, 2025\n\n\nDBIST UVSQ\n\n\n\n\n\n\n\n\n\n\n\n\nL’été est fini\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nAug 26, 2025\n\n\nDBIST UVSQ\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/rentree/index.html",
+    "href": "posts/rentree/index.html",
+    "title": "L’été est fini",
+    "section": "",
+    "text": "Pour saluer la fin des vacances et le retour de l’automne, les bibliothèques de l’Université Versailles-Saint-Quentin lancent leur site de veille professionnelle. A bientôt pour de nouvelles aventures !\nEt pour commencer, une vue du Cube"
+  },
+  {
     "objectID": "posts/septembre/index.html",
     "href": "posts/septembre/index.html",
     "title": "Les actus du mois de septembre",
@@ -42,24 +56,10 @@
     "text": "Parutions\nLe numéro 117 d’Arabesques est en ligne et porte sur les “Normes en information et documentation” :\n\nAu cœur des infrastructures documentaires, la normalisation joue […] un rôle structurant : elle façonne les modalités d’identification, d’échange et de conservation de l’information. Des métadonnées aux identifiants, des formats d’indexation aux processus de qualité, ces cadres partagés, bien au-delà des seules préoccupations techniques, facilitent le dialogue entre systèmes, institutions et communautés. Qu’il s’agisse des normes formelles, portées par des organismes tels que l’ISO – et notamment son comité technique 46 (Information et documentation) – ou de normes dites « de fait », impulsées par des acteurs comme la Library of Congress ou ORCID, ces référentiels traduisent une volonté partagée d’harmoniser les pratiques, tout en laissant place à l’adaptation et à l’innovation."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "demo",
-    "section": "",
-    "text": "Les actus du mois de septembre\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nSep 1, 2025\n\n\nDBIST UVSQ\n\n\n\n\n\n\n\n\n\n\n\n\nL’été est fini\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nAug 26, 2025\n\n\nDBIST UVSQ\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "A propos",
     "section": "",
     "text": "About this blog"
-  },
-  {
-    "objectID": "posts/rentree/index.html",
-    "href": "posts/rentree/index.html",
-    "title": "L’été est fini",
-    "section": "",
-    "text": "Pour saluer la fin des vacances et le retour de l’automne, les bibliothèques de l’Université Versailles-Saint-Quentin lancent leur site de veille professionnelle. A bientôt pour de nouvelles aventures !\nEt pour commencer, une vue du Cube"
   }
 ]

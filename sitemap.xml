@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://m-salvadori.github.io/veille-dbist/posts/septembre/index.html</loc>
-    <lastmod>2025-09-22T10:39:56.582Z</lastmod>
-  </url>
-  <url>
     <loc>https://m-salvadori.github.io/veille-dbist/index.html</loc>
-    <lastmod>2025-09-22T10:39:56.566Z</lastmod>
-  </url>
-  <url>
-    <loc>https://m-salvadori.github.io/veille-dbist/about.html</loc>
-    <lastmod>2025-09-22T10:39:56.566Z</lastmod>
+    <lastmod>2025-09-22T11:04:35.710Z</lastmod>
   </url>
   <url>
     <loc>https://m-salvadori.github.io/veille-dbist/posts/rentree/index.html</loc>
-    <lastmod>2025-09-22T10:39:56.574Z</lastmod>
+    <lastmod>2025-09-22T11:04:35.711Z</lastmod>
+  </url>
+  <url>
+    <loc>https://m-salvadori.github.io/veille-dbist/posts/septembre/index.html</loc>
+    <lastmod>2025-09-22T11:04:35.714Z</lastmod>
+  </url>
+  <url>
+    <loc>https://m-salvadori.github.io/veille-dbist/about.html</loc>
+    <lastmod>2025-09-22T11:04:35.710Z</lastmod>
   </url>
 </urlset>

@@ -10,7 +10,7 @@
 <atom:link href="https://m-salvadori.github.io/veille-dbist/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.8.24</generator>
-<lastBuildDate>Sun, 31 Aug 2025 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 01 Sep 2025 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Les actus du mois de septembre</title>
   <dc:creator>DBIST UVSQ</dc:creator>
@@ -76,9 +76,11 @@
 </section>
 
  ]]></description>
-  <category>news</category>
+  <category>veille</category>
+  <category>ia</category>
+  <category>science ouverte</category>
   <guid>https://m-salvadori.github.io/veille-dbist/posts/septembre/</guid>
-  <pubDate>Sun, 31 Aug 2025 22:00:00 GMT</pubDate>
+  <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
   <media:content url="https://m-salvadori.github.io/veille-dbist/posts/septembre/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -102,7 +104,7 @@
   <category>code</category>
   <category>analysis</category>
   <guid>https://m-salvadori.github.io/veille-dbist/posts/rentree/</guid>
-  <pubDate>Mon, 25 Aug 2025 22:00:00 GMT</pubDate>
+  <pubDate>Tue, 26 Aug 2025 00:00:00 GMT</pubDate>
   <media:content url="https://m-salvadori.github.io/veille-dbist/posts/rentree/sun.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
