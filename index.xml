@@ -25,8 +25,8 @@
 <h1>Science ouverte</h1>
 <section id="publications-ouvertes-publications-plus-citées" class="level2">
 <h2 class="anchored" data-anchor-id="publications-ouvertes-publications-plus-citées">Publications ouvertes = publications plus citées</h2>
-<p>Une <a href="https://royalsocietypublishing.org/doi/10.1098/rsos.241248">étude</a> publiée dans <em>Royal Society Open Science</em> par une équipe de chercheurs européens vient pour la première fois confirmer, à partir d’un corpus important (500 000 articles), ce que des travaux à échelle plus réduite avaient laissé penser : la corrélation entre pratiques de publications en science ouverte et taux de citation de ces publications.</p>
-<p>Une synthèse des résultats est disponible sur <a href="https://www.ouvrirlascience.fr/pour-la-premiere-fois-a-lechelle-dun-pays-entier-la-france-une-etude-montre-que-les-pratiques-de-science-ouverte-sont-associees-a-une-augmentation-des-citations/">Ouvrir la science</a></p>
+<p>Une <a href="https://royalsocietypublishing.org/doi/10.1098/rsos.241248">étude</a> publiée dans <em>Royal Society Open Science</em> par une équipe de chercheurs européens vient pour la première fois confirmer, à partir d’un corpus important (500 000 articles), ce que des travaux à échelle plus réduite avaient laissé entendre : la corrélation entre pratiques de publications en science ouverte et taux de citation de ces publications.</p>
+<p>Une synthèse des résultats est disponible sur le site <a href="https://www.ouvrirlascience.fr/pour-la-premiere-fois-a-lechelle-dun-pays-entier-la-france-une-etude-montre-que-les-pratiques-de-science-ouverte-sont-associees-a-une-augmentation-des-citations/">Ouvrir la science</a></p>
 <blockquote class="blockquote">
 <ul>
 <li>Un article publié en accès ouvert est associé à 8,6% de citations supplémentaires par rapport à un article qui n’est pas en accès ouvert.</li>
@@ -43,12 +43,12 @@
 <section id="lia-les-centaures-et-les-humains" class="level2">
 <h2 class="anchored" data-anchor-id="lia-les-centaures-et-les-humains">L’IA, les centaures et les humains</h2>
 <p><img src="https://m-salvadori.github.io/veille-dbist/posts/septembre/centaur.jpg" class="img-fluid"></p>
-<p>Après l’<a href="https://fr.wikipedia.org/wiki/Merdification">“enshittification”</a> — soit la dégradation volontaire de la qualité des services fournis par les géants du numérique (GAFAM, Adobe, Spotify…) en position de quasi-monopole — l’écrivain et journaliste canadien <a href="https://pluralistic.net/">Cory Doctorow</a> réactualise ces derniers mois une ancienne métaphore pour décrire ce que l’intelligence artificielle générative fait à l’organisation du travail. Face aux effets potentiellement aliénants de ce “taylorisme du XXIe siècle” redistribuant les rôles entre humains et machines, la distinction entre “centaure” et “anticentaure” (<em>reverse centaur</em>) permet d’y voir plus clair en différenciant les usages :</p>
+<p>Après l’<a href="https://fr.wikipedia.org/wiki/Merdification">“enshittification”</a> — soit la dégradation volontaire de la qualité des services fournis par les géants du numérique (GAFAM, Adobe, Spotify…) en position de quasi-monopole — l’écrivain et journaliste canadien <a href="https://pluralistic.net/">Cory Doctorow</a> réactualise dans ses posts de ces derniers mois une ancienne métaphore pour décrire ce que l’intelligence artificielle générative fait à l’organisation du travail. Face aux effets potentiellement aliénants de ce “taylorisme du XXIe siècle” redistribuant les rôles entre humains et machines, la distinction entre “centaure” et “anticentaure” (<em>reverse centaur</em>) apporte une clarification en différenciant les usages :</p>
 <blockquote class="blockquote">
 <p>Un “centaure” est un humain assisté par une machine : une tête humaine greffée sur un corps puissant qui ne connaît pas la fatigue. Un “anticentaure” est une machine à qui l’humain sert d’assistant, réduit au rôle d’une marionnette au service d’une machine implacable et insensible.</p>
 </blockquote>
-<p>Faire travailler un grand modèle de langage à la transcription automatique de plusieurs centaines de podcasts ? C’est mettre <em>volontairement</em> à son service toutes les possibilités de la machine, être à la tête du centaure.</p>
-<p>Passer l’essentiel de son temps à traquer et corriger erreurs, biais et hallucinations dans des textes, images ou codes produits par des IAG sous prétexte de productivité ? C’est, comme l’anticentaure, être à la traîne de la machine, condamné à courir derrière une tête autonome.</p>
+<p>Faire travailler un grand modèle de langage à la transcription automatique de plusieurs centaines de podcasts ? C’est mettre <em>volontairement</em> à son service toutes les possibilités de la machine, se situer par conséquent à la tête du centaure.</p>
+<p>Passer l’essentiel de son temps à traquer et corriger erreurs, biais et hallucinations dans des textes, images ou codes tous produits par des IAG sous prétexte de productivité ? C’est, comme l’anticentaure, être à la traîne de la machine, condamné à courir derrière une tête autonome.</p>
 <p>Source : Cory Doctorow, “Reverse centaurs are the answer to the AI paradox”, <a href="https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative"><em>Pluralistic</em></a></p>
 </section>
 </section>
@@ -56,12 +56,12 @@
 <h1>Si vous l’aviez raté</h1>
 <section id="zotero-pour-android" class="level2">
 <h2 class="anchored" data-anchor-id="zotero-pour-android">Zotero pour Android</h2>
-<p>Vous en rêviez la nuit, le rêve est désormais réalité : l’application Zotero pour Android, sortie de sa phase de développement <em>bêta</em>, est désormais accessible <a href="https://play.google.com/store/apps/details?id=org.zotero.android&amp;pli=1">entre autres sur Google Play</a>. L’application embarque un lecteur de PDF et autorise la synchronisation avec ses bibliothèques personnelles, y compris — pour les fanatiques de la collecte de documents — via le protocle WebDAV.</p>
+<p>Vous en rêviez la nuit, le rêve est désormais réalité : l’application Zotero pour Android, sortie de sa phase de développement <em>bêta</em>, est désormais accessible <a href="https://play.google.com/store/apps/details?id=org.zotero.android&amp;pli=1">entre autres sur Google Play</a>. L’application embarque un lecteur de PDF et autorise la synchronisation avec ses bibliothèques personnelles, y compris — pour les fanatiques de la collecte de documents — via le protocole WebDAV.</p>
 <p>Source : <a href="https://zotero.hypotheses.org/5552">Le blog Zotero francophone</a></p>
 </section>
 <section id="licenciements-à-loclc" class="level2">
 <h2 class="anchored" data-anchor-id="licenciements-à-loclc">Licenciements à l’OCLC</h2>
-<p>Organisation <a href="https://projects.propublica.org/nonprofits/organizations/310734115">“à but non lucratif”</a> chargée, entre autres, de la maintenance de services comme WodldCat ou WebDewey, l’OCLC a licencié cet été 80 employés de son siège à Dublin (Ohio). Parmi les raisons avancées pour expliquer ce licenciement de 15% de la masse salariale de l’organisation, un porte-parole de l’organisation cite “des changements dans les compétences techniques attendues” et “l’influence croissante de l’intelligence artificielle”.</p>
+<p>Organisation <a href="https://projects.propublica.org/nonprofits/organizations/310734115">“à but non lucratif”</a> chargée, entre autres, de la maintenance de services comme WorldCat ou WebDewey, l’OCLC a licencié cet été 80 employés de son siège à Dublin (Ohio). Parmi les raisons avancées pour expliquer ce licenciement de 15% de la masse salariale de l’organisation, un porte-parole cite “des changements dans les compétences techniques attendues” et “l’influence croissante de l’intelligence artificielle”.</p>
 <p><a href="https://abc6onyourside.com/news/local/ohio-college-library-center-in-dublin-lays-off-about-80-employees-cites-ai-oclc-dublin-libraries-bob-murphy-employment-unemployment">Source</a></p>
 </section>
 <section id="parutions" class="level2">
@@ -93,16 +93,14 @@
 
 
 
-<p>Pour saluer la fin des vacances et le retour de l’automne, les <a href="https://www.bib.uvsq.fr/">bibliothèques</a> de l’Université Versailles-Saint-Quentin lancent leur site de veille professionnelle. A bientôt pour de nouvelles aventures !</p>
-<p>Et pour commencer, une vue du Cube</p>
+<p>Pour saluer la fin des vacances et le retour de l’automne, les <a href="https://www.bib.uvsq.fr/">bibliothèques</a> de l’Université Versailles-Saint-Quentin lancent leur site de veille professionnelle. A bientôt !</p>
+<p>Et pour commencer, une vue du Cube :</p>
 <p><img src="https://m-salvadori.github.io/veille-dbist/posts/rentree/cube.jpg" class="img-fluid"></p>
 
 
 
  ]]></description>
-  <category>news</category>
-  <category>code</category>
-  <category>analysis</category>
+  <category>veille</category>
   <guid>https://m-salvadori.github.io/veille-dbist/posts/rentree/</guid>
   <pubDate>Tue, 26 Aug 2025 00:00:00 GMT</pubDate>
   <media:content url="https://m-salvadori.github.io/veille-dbist/posts/rentree/sun.jpg" medium="image" type="image/jpeg"/>
