@@ -6,15 +6,15 @@
       version="2.0">
 <channel>
 <title>demo</title>
-<link>https://your-website-url.example.com/</link>
-<atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://m-salvadori.github.io/veille-dbist/</link>
+<atom:link href="https://m-salvadori.github.io/veille-dbist/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.8.24</generator>
 <lastBuildDate>Sun, 31 Aug 2025 22:00:00 GMT</lastBuildDate>
 <item>
   <title>Les actus du mois de septembre</title>
   <dc:creator>DBIST UVSQ</dc:creator>
-  <link>https://your-website-url.example.com/posts/septembre/</link>
+  <link>https://m-salvadori.github.io/veille-dbist/posts/septembre/</link>
   <description><![CDATA[ 
 
 
@@ -42,7 +42,7 @@
 <h1>Intelligences artificielles</h1>
 <section id="lia-les-centaures-et-les-humains" class="level2">
 <h2 class="anchored" data-anchor-id="lia-les-centaures-et-les-humains">L’IA, les centaures et les humains</h2>
-<p><img src="https://your-website-url.example.com/posts/septembre/centaur.jpg" class="img-fluid"></p>
+<p><img src="https://m-salvadori.github.io/veille-dbist/posts/septembre/centaur.jpg" class="img-fluid"></p>
 <p>Après l’<a href="https://fr.wikipedia.org/wiki/Merdification">“enshittification”</a> — soit la dégradation volontaire de la qualité des services fournis par les géants du numérique (GAFAM, Adobe, Spotify…) en position de quasi-monopole — l’écrivain et journaliste canadien <a href="https://pluralistic.net/">Cory Doctorow</a> réactualise ces derniers mois une ancienne métaphore pour décrire ce que l’intelligence artificielle générative fait à l’organisation du travail. Face aux effets potentiellement aliénants de ce “taylorisme du XXIe siècle” redistribuant les rôles entre humains et machines, la distinction entre “centaure” et “anticentaure” (<em>reverse centaur</em>) permet d’y voir plus clair en différenciant les usages :</p>
 <blockquote class="blockquote">
 <p>Un “centaure” est un humain assisté par une machine : une tête humaine greffée sur un corps puissant qui ne connaît pas la fatigue. Un “anticentaure” est une machine à qui l’humain sert d’assistant, réduit au rôle d’une marionnette au service d’une machine implacable et insensible.</p>
@@ -77,14 +77,14 @@
 
  ]]></description>
   <category>news</category>
-  <guid>https://your-website-url.example.com/posts/septembre/</guid>
+  <guid>https://m-salvadori.github.io/veille-dbist/posts/septembre/</guid>
   <pubDate>Sun, 31 Aug 2025 22:00:00 GMT</pubDate>
-  <media:content url="https://your-website-url.example.com/posts/septembre/image.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://m-salvadori.github.io/veille-dbist/posts/septembre/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>L’été est fini</title>
   <dc:creator>DBIST UVSQ</dc:creator>
-  <link>https://your-website-url.example.com/posts/rentree/</link>
+  <link>https://m-salvadori.github.io/veille-dbist/posts/rentree/</link>
   <description><![CDATA[ 
 
 
@@ -93,7 +93,7 @@
 
 <p>Pour saluer la fin des vacances et le retour de l’automne, les <a href="https://www.bib.uvsq.fr/">bibliothèques</a> de l’Université Versailles-Saint-Quentin lancent leur site de veille professionnelle. A bientôt pour de nouvelles aventures !</p>
 <p>Et pour commencer, une vue du Cube</p>
-<p><img src="https://your-website-url.example.com/posts/rentree/cube.jpg" class="img-fluid"></p>
+<p><img src="https://m-salvadori.github.io/veille-dbist/posts/rentree/cube.jpg" class="img-fluid"></p>
 
 
 
@@ -101,9 +101,9 @@
   <category>news</category>
   <category>code</category>
   <category>analysis</category>
-  <guid>https://your-website-url.example.com/posts/rentree/</guid>
+  <guid>https://m-salvadori.github.io/veille-dbist/posts/rentree/</guid>
   <pubDate>Mon, 25 Aug 2025 22:00:00 GMT</pubDate>
-  <media:content url="https://your-website-url.example.com/posts/rentree/sun.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://m-salvadori.github.io/veille-dbist/posts/rentree/sun.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
